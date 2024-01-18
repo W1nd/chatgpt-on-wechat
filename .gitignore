@@ -30,5 +30,4 @@ plugins/banwords/lib/__pycache__
 !plugins/role
 !plugins/keyword
 !plugins/linkai
-Python-3.8.0/
-Python-3.8.0.tar.xz
+client_config.json
